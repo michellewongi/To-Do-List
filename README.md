@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://expo.dev/@mw3981/TestApp](https://expo.dev/@mw3981/TestApp)
+- Live Site URL: [https://expo.dev/@mw3981/to-do-list](https://expo.dev/@mw3981/to-do-list)
 
 ## My process
 
